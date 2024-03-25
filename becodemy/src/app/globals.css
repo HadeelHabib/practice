@@ -66,3 +66,12 @@ body {
   font-size: 16px;
   font-weight: 600;
 }
+.dot {
+  width: 16px;
+  height: 16px;
+  background: rgb(20, 187, 112);
+  border-radius: 100%;
+  position: absolute;
+  margin-left: -25px;
+  margin-top: 5px;
+}
